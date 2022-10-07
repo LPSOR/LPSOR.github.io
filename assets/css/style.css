@@ -58,7 +58,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #ffd4e4;
+  background: #f97c99;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -72,7 +72,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #f97c99;
+  background: #ffd4e4;
   color: #fff;
 }
 
@@ -167,7 +167,7 @@ h6 {
   align-items: center;
   justify-content: space-between;
   font-family: VI Hai Duong Hoa;
-  color: #fff;
+  color: #00cfef;
   font-size: 14px;
   padding: 0 4px;
   white-space: nowrap;
@@ -208,7 +208,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #fff;
+  color: #00cfef;
 }
 
 .navbar .dropdown ul {
@@ -653,10 +653,10 @@ section {
 # CSS for index.html and downloads.html
 --------------------------------------------------------------*/
 strong {
-  color: #07CFE7;
+  color: #fba8ca;
 }
 strong2 {
-  color: #b1cfa7;
+  color: #006ad4;
 }
 body::-webkit-scrollbar {
   width: 12px;
