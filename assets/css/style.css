@@ -704,9 +704,6 @@ body::-webkit-scrollbar-thumb {
   text-align: center;
   width: 200%;
 }
-border {
-  border: 5px solid white;
-}
 body {
     font-family: 'VI Hai Duong Hoa';font-size: 22px;
 }
