@@ -15,7 +15,7 @@ body {
   background: #fff;
   color: white;
   text-align: center;
-  font-family: Edu VIC WA NT Beginner;
+  font-family: VI Hai Duong Hoa;
 }
 
 a {
@@ -26,7 +26,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-  color: #2dca98;
+  color: #f97c99;
   outline: none;
   text-decoration: none;
 }
@@ -42,7 +42,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Edu VIC WA NT Beginner;
+  font-family: VI Hai Duong Hoa;
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
@@ -58,7 +58,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #2dc997;
+  background: #ffd4e4;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -72,7 +72,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #49d6a9;
+  background: #f97c99;
   color: #fff;
 }
 
@@ -97,14 +97,14 @@ h6 {
   height: 90px;
   transition: all 0.5s;
   z-index: 997;
-  background: rgba(52, 59, 64, 0.9);
+  background: #0a4a86;
 }
 
 #header #logo h1 {
   font-size: 32px;
   margin: 0;
   line-height: 1;
-  font-family: Edu VIC WA NT Beginner;
+  font-family: VI Hai Duong Hoa;
   font-weight: 700;
   letter-spacing: 3px;
   text-transform: uppercase;
@@ -166,7 +166,7 @@ h6 {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  font-family: Edu VIC WA NT Beginner;
+  font-family: VI Hai Duong Hoa;
   color: #fff;
   font-size: 14px;
   padding: 0 4px;
@@ -221,7 +221,7 @@ h6 {
   z-index: 99;
   opacity: 0;
   visibility: hidden;
-  background: #000000;
+  background: #ffd4e4;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
 }
@@ -234,7 +234,7 @@ h6 {
   padding: 10px 20px;
   font-size: 14px;
   text-transform: none;
-  color: #ffffff;
+  color: #000000;
 }
 
 .navbar .dropdown ul a i {
@@ -244,7 +244,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #2dc997;
+  color: #ffd4e4;
 }
 
 .navbar .dropdown:hover>ul {
@@ -324,7 +324,7 @@ h6 {
   bottom: 15px;
   left: 15px;
   padding: 10px 0;
-  background-color: #fff;
+  background-color: #ffd4e4;
   overflow-y: auto;
   transition: 0.3s;
 }
@@ -365,7 +365,7 @@ h6 {
   z-index: 99;
   opacity: 1;
   visibility: visible;
-  background: #000000;
+  background: #ffd4e4;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
 }
 
@@ -384,7 +384,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #2dc997;
+  color: #f97c99;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -397,7 +397,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url(../img/main.jpg) top center;
+  background: #00cfef;
   background-size: cover;
   position: relative;
 }
@@ -462,7 +462,7 @@ h6 {
 }
 
 #hero .btn-get-started {
-  font-family: Edu VIC WA NT Beginner;
+  font-family: VI Hai Duong Hoa;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 16px;
@@ -588,7 +588,7 @@ section {
 }
 
 #call-to-action .cta-btn {
-  font-family: Edu VIC WA NT Beginner;
+  font-family: VI Hai Duong Hoa;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 16px;
@@ -631,7 +631,8 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #0f66ba;
+  background: url(../img/BlueBG.jpg) top center no-repeat;
+  background-size: cover;
   padding: 30px 0;
   color: #fff;
   font-size: 14px;
@@ -707,5 +708,5 @@ border {
   border: 5px solid white;
 }
 body {
-    font-family: 'Edu VIC WA NT Beginner';font-size: 22px;
+    font-family: 'VI Hai Duong Hoa';font-size: 22px;
 }
