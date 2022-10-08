@@ -677,33 +677,9 @@ body::-webkit-scrollbar-thumb {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 70%;
-}
-.center2 {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 20%;
-}
-.center3 {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 90%;
-}
-.center4 {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;
-}
-.center5 {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
   text-align: center;
   width: 200%;
 }
 body {
-    font-family: 'VI Hai Duong Hoa';font-size: 22px;
+    font-family: 'VI Hai Duong Hoa';font-size: 30px;
 }
