@@ -32,24 +32,17 @@
 	opacity: 0;
 	animation: fadeIn 1s ease-in forwards;
 }
-
-@media (max-width: 991px) {
-  .mobile-nav-toggle {
-    display: block;
-  }
-
 @media (min-width: 1024px) {
   #hero {
     background-attachment: fixed;
   }
-
+}
 @media (max-width: 768px) {
   #hero h1 {
     font-size: 28px;
     line-height: 36px;
   }
 }
-
 #hero h2 {
   color: #eee;
   margin-bottom: 50px;
@@ -62,3 +55,4 @@
     line-height: 24px;
     margin-bottom: 30px;
   }
+}

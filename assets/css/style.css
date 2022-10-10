@@ -1,5 +1,5 @@
 /**
-* Template Name: Regna - v4.9.0
+* Template Name: Regna - v4.9.1
 * Bootstrap version: 5.2.2
 * Bootstrap icons version: 1.9.1
 * Swiper JS version: 8.4.3
